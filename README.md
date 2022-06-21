@@ -100,7 +100,7 @@
 <table border="0" align="center">
 <tr border="0">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=utkarshkumarmishra&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) </tr></td></table>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=utkarshkumarmishra&bg_color=000000&color=ff3300&line=ff3300&point=ff3300&area=true&hide_border=true) </tr></td></table>
 
 
 
